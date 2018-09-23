@@ -1,0 +1,1 @@
+export default (f1, f2) => v => f1(f2(v));
